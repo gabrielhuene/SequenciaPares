@@ -1,0 +1,2 @@
+# SequenciaPares
+solução do exercício
